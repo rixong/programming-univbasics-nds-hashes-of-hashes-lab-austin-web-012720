@@ -40,7 +40,6 @@ def naming_system
         }
       }
     }
-  }
   
   
   # Remember:
